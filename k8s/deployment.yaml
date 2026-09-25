@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: k8s-demo
-        image: himanshi5/k8s-demo:v1
+        image: himanshi6/k8s-demo:v1
         ports:
         - containerPort: 3000
         env:
