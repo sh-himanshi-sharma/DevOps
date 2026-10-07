@@ -1,0 +1,9 @@
+{
+  "name": "compose-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "redis": "^4.6.0"
+  }
+}
